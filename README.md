@@ -1,70 +1,36 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# 🌟 Celestia 🌟
 
-In the project directory, you can run:
+Welcome to the **Celestia** project! This platform provides the latest updates and news about your favorite celebrities. From movies and music to sport and more, stay up to date with the exciting lives of the stars!
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Here's an about-us PowerPoint:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✨[Know more about us here!](https://github.com/user-attachments/files/18307574/welcom-to-celestia-4.pptx)✨
 
-### `npm test`
+## 🚀 Features
+- **Real-time Celebrity News:** Get the latest headlines about celebrities.
+- **Celebrity Profiles:** Detailed profiles of each celebrity, including their career, achievements, and upcoming projects.
+- **News Aggregation:** Gather news from multiple sources to provide comprehensive celebrity coverage.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📸 Demo
+### 🌟 Sign IN or Sign Up:
+![image](https://github.com/user-attachments/assets/fbdc841c-2772-4895-9e02-14e7e89b2e8c)
+![image](https://github.com/user-attachments/assets/9ca83f91-dc10-4f25-8651-b33cb84ea759)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🌟 Home Page:
+![image](https://github.com/user-attachments/assets/98767b26-42b2-448e-a58e-e8897667f03f)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🌟 Categories:
+![image](https://github.com/user-attachments/assets/07f74ef0-e4d3-4f24-b8e4-cacb67cca865)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 🌟 Celebrity Profile Page:
+![Celebrity Profile Page](.png)
+---
+### 🚀 Demo Description:
+Here’s a quick preview of how **Celebrities News** works. You can see the app fetches the latest celebrity news, displays their profiles, and allows you to search for celebrities by name. Try searching for your favorite celebrity and see their latest updates!
+---
+## 📸 How Celestia's Code runs:
